@@ -8,8 +8,8 @@
 - 🛒 E-commerce site – Coming soon!
 
 ## 📫 Connect with me:
-- LinkedIn: [your-link-here]
-- Email: darshan@email.com
+- LinkedIn: [www.linkedin.com/in/darshan-nilogal-541252293]
+- Email: darshannilogal@gmail.com
 - Portfolio: coming soon...
 
 ---
