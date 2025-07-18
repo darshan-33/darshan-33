@@ -1,16 +1,17 @@
-## Hi there 👋
+# 👋 Hi, I'm Darshan
+🎓 BCA 3rd Year | 💻 Aspiring Full Stack Developer  
+🚀 HTML5 | CSS3 | JavaScript | React | Node.js | MongoDB  
 
-<!--
-**darshan-33/darshan-33** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## 🛠️ Projects
+- 🔧 [To-Do App](#) – Add tasks, delete tasks, localStorage support
+- 🌦️ Weather App – Coming soon!
+- 🛒 E-commerce site – Coming soon!
 
-Here are some ideas to get you started:
+## 📫 Connect with me:
+- LinkedIn: [your-link-here]
+- Email: darshan@email.com
+- Portfolio: coming soon...
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+🌱 Currently learning React.js & Node.js  
+✨ Always excited to build and learn new tech!
